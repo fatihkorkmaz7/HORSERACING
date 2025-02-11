@@ -1,0 +1,30 @@
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\bin\Debug\AT_YARIŞI.exe.config
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\bin\Debug\AT_YARIŞI.exe
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\bin\Debug\AT_YARIŞI.pdb
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.AssemblyReference.cache
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.Form1.resources
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.Properties.Resources.resources
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.GenerateResource.cache
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.exe
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.pdb
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih Korkmaz\source\repos\AT_YARIŞI\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.ResolveComReference.cache
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\bin\Debug\AT_YARIŞI.exe.config
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\bin\Debug\AT_YARIŞI.exe
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\bin\Debug\AT_YARIŞI.pdb
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.AssemblyReference.cache
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.ResolveComReference.cache
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.Form1.resources
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.Properties.Resources.resources
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.GenerateResource.cache
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.exe
+C:\Users\Fatih Korkmaz\OneDrive\Masaüstü\Ders Notları\Proje örnekleri\AT_YARIŞI\obj\Debug\AT_YARIŞI.pdb
