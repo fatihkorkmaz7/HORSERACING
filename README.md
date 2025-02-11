@@ -10,6 +10,9 @@ Bu proje, Windows Forms kullanılarak geliştirilen basit bir at yarışı oyunu
 - Yarış süresi ve bahislerin kabul edilme süresi
 - Kullanıcı dostu arayüz
 
+## Not
+Form1.cs dosyasında, oyunun arka planında çalmasını istediğiniz müziğin adresini axWindowsMediaPlayer1.URL kısmına girmeniz gerekmektedir.
+
 ## Kurulum
 
 1. Bu projeyi GitHub'dan klonlayın:
