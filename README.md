@@ -14,4 +14,4 @@ Bu proje, Windows Forms kullanılarak geliştirilen basit bir at yarışı oyunu
 
 1. Bu projeyi GitHub'dan klonlayın:
    ```bash
-   git clone https://github.com/fatihkorkmaz7/at-yarisi-oyunu.git
+   git clone https://github.com/fatihkorkmaz7/HORSERACING.git
